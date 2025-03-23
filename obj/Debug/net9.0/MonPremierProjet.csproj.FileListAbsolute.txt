@@ -1,0 +1,14 @@
+C:\Users\alain\OneDrive\Documents\MonPremierProjet\bin\Debug\net9.0\MonPremierProjet.exe
+C:\Users\alain\OneDrive\Documents\MonPremierProjet\bin\Debug\net9.0\MonPremierProjet.deps.json
+C:\Users\alain\OneDrive\Documents\MonPremierProjet\bin\Debug\net9.0\MonPremierProjet.runtimeconfig.json
+C:\Users\alain\OneDrive\Documents\MonPremierProjet\bin\Debug\net9.0\MonPremierProjet.dll
+C:\Users\alain\OneDrive\Documents\MonPremierProjet\bin\Debug\net9.0\MonPremierProjet.pdb
+C:\Users\alain\OneDrive\Documents\MonPremierProjet\obj\Debug\net9.0\MonPremierProjet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alain\OneDrive\Documents\MonPremierProjet\obj\Debug\net9.0\MonPremierProjet.AssemblyInfoInputs.cache
+C:\Users\alain\OneDrive\Documents\MonPremierProjet\obj\Debug\net9.0\MonPremierProjet.AssemblyInfo.cs
+C:\Users\alain\OneDrive\Documents\MonPremierProjet\obj\Debug\net9.0\MonPremierProjet.csproj.CoreCompileInputs.cache
+C:\Users\alain\OneDrive\Documents\MonPremierProjet\obj\Debug\net9.0\MonPremierProjet.dll
+C:\Users\alain\OneDrive\Documents\MonPremierProjet\obj\Debug\net9.0\refint\MonPremierProjet.dll
+C:\Users\alain\OneDrive\Documents\MonPremierProjet\obj\Debug\net9.0\MonPremierProjet.pdb
+C:\Users\alain\OneDrive\Documents\MonPremierProjet\obj\Debug\net9.0\MonPremierProjet.genruntimeconfig.cache
+C:\Users\alain\OneDrive\Documents\MonPremierProjet\obj\Debug\net9.0\ref\MonPremierProjet.dll
